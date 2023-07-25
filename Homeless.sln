@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeless", "Homeless\Homeless.csproj", "{FA8471E1-B700-43F7-AC03-6EF2CB451C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8471E1-B700-43F7-AC03-6EF2CB451C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8471E1-B700-43F7-AC03-6EF2CB451C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8471E1-B700-43F7-AC03-6EF2CB451C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8471E1-B700-43F7-AC03-6EF2CB451C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2153C1AD-6DCC-4D89-B1BA-07F1277EBBAD}
+	EndGlobalSection
+EndGlobal
